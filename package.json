@@ -1,0 +1,25 @@
+{
+  "name": "floorplans",
+  "version": "1.0.0",
+  "description": "Using [Leaflet](https://leafletjs.com/) to create floorplans using a simple coordinate system",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyblackham/floorplans.git"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyblackham/floorplans/issues"
+  },
+  "homepage": "https://github.com/anthonyblackham/floorplans#readme",
+  "dependencies": {
+    "svgo": "^2.8.0"
+  }
+}
